@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Optional Sections (add if needed):
+Optional Sections:
 
 Screenshots: Add relevant screenshots of the app.
 
