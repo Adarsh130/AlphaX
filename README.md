@@ -46,8 +46,8 @@ Gunicorn (for production)
 Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/AlphaX.git
-cd AlphaX
+git clone https://github.com/Adarsh130/AlphaX-AI.git
+cd AlphaX-AI
 2. Set up a virtual environment:
 python3 -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
