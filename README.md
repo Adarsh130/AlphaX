@@ -64,3 +64,34 @@ set OPENROUTER_API_KEY=your_openrouter_api_key
 python app.py
 3. Open your browser and go to http://localhost:5000.
 
+Environment Variables
+
+OPENROUTER_API_KEY: Your API key to access OpenRouter for the AI responses.
+
+
+Usage
+
+Once deployed or running locally, users can interact with the AlphaX chatbot by typing questions in the input box and receiving responses in real-time.
+
+Contributing
+
+Contributions are welcome! Feel free to open a pull request or issue to suggest improvements or report bugs.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+---
+
+Optional Sections (add if needed):
+
+Screenshots: Add relevant screenshots of the app.
+
+Acknowledgments: Mention any third-party libraries, frameworks, or individuals who helped you.
+
+FAQ: Add answers to common questions about the setup, usage, or functionality of the project.
+
+
+This README gives potential users and contributors a clear understanding of how to set up and work with the project. Let me know if you want to add anything specific!
+
