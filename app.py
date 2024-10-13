@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template, jsonify
 import json
 import requests
-
+import os
 app = Flask(__name__)
 
 # Ensure Flask can find static files like CSS and JavaScript
