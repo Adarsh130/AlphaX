@@ -1,14 +1,13 @@
 from flask import Flask, request, render_template, jsonify
 import json
 import requests
-import os
 app = Flask(__name__)
 
 # Ensure Flask can find static files like CSS and JavaScript
 app = Flask(__name__, static_url_path='/static')
 
 # Fetch API key from environment variables
-OPENROUTER_API_KEY = os.getenv("YOUR_OPENROUTER_API_KEY")
+OPENROUTER_API_KEY = "YOUR_OPENROUTER_API_KEY"
 
 # Check if API key is correctly retrieved
 if OPENROUTER_API_KEY is None:
