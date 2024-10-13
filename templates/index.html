@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlphaX Chat</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Chat with AlphaX</h1>
+        
+        <div class="chat-container">
+            <div id="chat-box" class="chat-box">
+                <!-- Messages will be dynamically added here -->
+            </div>
+            
+            <form id="chat-form" class="chat-form">
+                <input type="text" id="prompt" name="prompt" placeholder="Ask your question..." autocomplete="off" required>
+                <button type="submit" id="submit-btn">Send</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
