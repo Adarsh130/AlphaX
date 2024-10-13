@@ -7,7 +7,7 @@ app = Flask(__name__)
 app = Flask(__name__, static_url_path='/static')
 
 # Fetch API key from environment variables
-OPENROUTER_API_KEY = "YOUR_OPENROUTER_API_KEY"
+OPENROUTER_API_KEY = "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"
 
 # Check if API key is correctly retrieved
 if OPENROUTER_API_KEY is None:
