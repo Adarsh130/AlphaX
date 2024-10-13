@@ -2,23 +2,23 @@ AlphaX is an AI-powered chatbot web application that allows users to interact wi
 
 Table of Contents
 
-Features
+1-Features
 
-Demo
+2-Demo
 
-Requirements
+3-Requirements
 
-Installation
+4-Installation
 
-Running Locally
+5-Running Locally
 
-Deployment
+6-Deployment
 
-Environment Variables
+7-Environment Variables
 
-Usage
+8-Usage
 
-License
+9-License
 
 
 Features
